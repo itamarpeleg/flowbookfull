@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i)*x8_7^)n^+qcn-w&67*fw89rtp=xfdb%--7ykokf0(q0nmmu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://flowbookend.herokuapp.com/']
 
 
 # Application definition
